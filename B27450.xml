@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Non-conformist's plea for uniformity being the judgment of fourscore and four ministers of the county palatine of Lancaster, of a whole provincial assembly of ministers and elders in and about London, and of ... preachers, English, Scottish, and New-English, concerning toleration and uniformity in matters of religion : together with a resolution of this difficult question, whether the penalty of the law ought to be inflicted on those who pretend and plead conscience in opposition to what the law commands?</title>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27450</idno><idno type="EEBO-CITATION">13085545</idno>
+  <idno type="VID">199348</idno>
+  <idno type="EEBO-PROQUEST">2248529664</idno>
+  
+            <idno type="STC">Wing N1224</idno>
+            <idno type="OCLC">13085545</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199348)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Non-conformist's plea for uniformity being the judgment of fourscore and four ministers of the county palatine of Lancaster, of a whole provincial assembly of ministers and elders in and about London, and of ... preachers, English, Scottish, and New-English, concerning toleration and uniformity in matters of religion : together with a resolution of this difficult question, whether the penalty of the law ought to be inflicted on those who pretend and plead conscience in opposition to what the law commands?</title>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199348:1"/>
+            <p>THE NON-CONFORMIST'S PLEA FOR UNIFORMITY.</p>
+            <p>Being the Judgment of Fourscore and Four Ministers of the County Palatine of <hi>Lancaster.</hi> Of a whole Provincial As<g ref="char:EOLhyphen"/>sembly of Ministers and Elders, in and about <hi>London.</hi> And of several other eminent Preachers, <hi>English, Scottish</hi> and <hi>New-English,</hi> concerning Toleration and Uniformity in matters of Religion.</p>
+            <p>Together with a Resolution of this difficult Question; Whether the Penalty of the Law ought to be inflicted on those, who pretend and plead Conscience, in opposition to what the Law commands?</p>
+            <q>Video meliora proboque, Deteriora sequor.</q>
+            <q>
+               <bibl>
+                  <hi>Mr.</hi> Case <hi>Farewel-Serm. on</hi> Rev. <hi>2.5.</hi>
+               </bibl> Time was, when the name of a Toleration would have made Christians to have trembled.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the Gun in St. <hi>Pauls</hi> Church-yard. 1674</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:199348:2"/>
+            <pb n="3" facs="tcp:199348:2"/>
+            <head>THE NON-CONFORMIST'S PLEA FOR UNIFORMITY.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Book called <hi>The Harmonious consent of the Ministers of the Pro<g ref="char:EOLhyphen"/>vince, within the County Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atine of Lancaster, with their Reverend Bre<g ref="char:EOLhyphen"/>thren, the Ministers of the Province of London in their late Testimony to the Truth of Jesus Christ,</hi> printed in the Year 1648, and subscribed by 84 Ministers, whose names are printed with the said book; we have these expressions among several others to the like purpose. <hi>pag.</hi> 11, 12, 13.</p>
+            <q>
+               <pb n="4" facs="tcp:199348:3"/>
+               <note place="margin">pag. 11.</note>
+               <p>For our own parts, as we can never sufficiently ad<g ref="char:EOLhyphen"/>mire and wonder, that any, that have taken the so<g ref="char:EOLhyphen"/>lemn <hi>League</hi> and <hi>Covenant,</hi> could either have so quick<g ref="char:EOLhyphen"/>ly forgotten it, or else imagin that the establishing a <hi>Toleration</hi> of <hi>Heresy</hi> and <hi>Schism</hi> by a Law, should be the way to extirpate them; so also here we shall take oc<g ref="char:EOLhyphen"/>casion to declare, what our apprehensions are concer<g ref="char:EOLhyphen"/>ning such a <hi>Toleration.</hi>
+               </p>
+               <p>We have searched the <hi>Scriptures,</hi> looked as impar<g ref="char:EOLhyphen"/>tially as we could into those <hi>authentick Records,</hi> and yet we cannot find, that ever such a thing was practi<g ref="char:EOLhyphen"/>sed with approbation from God, from the time that <hi>Adam</hi> was created upon the Earth, unto the sealing up of the sacred <hi>Volume:</hi> but on the contrary, that those were blamed, reprehended and checked, that did but continue and wink at the practise of those things that were displeasing unto God; that the not taking away the high places is mentioned as a defect in their <hi>Reformation,</hi>
+                  <note place="margin">Rev. 2.14, 15, 20. 1 King. 15.14. 2 Chron. 33.17. 2 Chron. 17.6.31.1.34.3, 4.</note> of whom yet God gives testimo<g ref="char:EOLhyphen"/>ny, that their hearts were upright, and that those that quite took all away that was distastful to him, were by God himself highly honour'd, and much commen<g ref="char:EOLhyphen"/>ded. And therefore we cannot see how such a kind of <hi>Toleration</hi> as is endeavored after in these times, can any way consist with a through <hi>Reformation</hi> accord<g ref="char:EOLhyphen"/>ing to the <hi>Word of God;</hi> there being nothing more contrary to <hi>Reformation</hi> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Toleration.</hi>
+               </p>
+               <p>
+                  <note place="margin">p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g. 12.</note>A <hi>Toleration</hi> would be the putting of a Sword into a <hi>Mad-man</hi>'s hand, a cup of <hi>poyson</hi> into the hand of a <hi>child;</hi> a letting loose of <hi>Mad men</hi> with <hi>Fire-brands</hi> in their hands; an appointing a <hi>City</hi> of <hi>Refuge</hi> in mens <hi>Consciences</hi> for the <hi>Devil</hi> to fly to; a laying of the <hi>stumbling block</hi> before the blind; a proclaiming li<g ref="char:EOLhyphen"/>berty to the <hi>Wolves</hi> to come into <hi>Christ</hi>'s fold to prey
+<pb n="5" facs="tcp:199348:3"/> upon the <hi>Lambs;</hi> A <hi>Toleration</hi> of Soul-murder (the greatest murder of all) and for the establishing whereof damned Souls in <hi>Hell</hi> would accurse men on <hi>Earth.</hi> Neither would it be to provide for ten<g ref="char:EOLhyphen"/>der <hi>Consciences,</hi> but to take away all <hi>Conscience.</hi> If <hi>evil</hi> be suffered, it will not suffer <hi>good;</hi> if <hi>error</hi> be not forcibly kept under, it will be superior.</p>
+               <p>The establishing of a <hi>Toleration</hi> would make us become the abhorring and loathing of all nations;<note place="margin">pag. 13.</note> and being so palpable a breach of our <hi>Covenant,</hi> would be the high road-way to lay <hi>Englands</hi> glory in the dust, and awaken against us the <hi>Lord of Hosts</hi> to bring a Sword upon us,<note place="margin">Qu. 26.25.</note> to avenge the <hi>Quarrel</hi> of his <hi>Covenant.</hi> A <hi>Toleration</hi> added to our other sins would make us to God an <hi>intolerable</hi> burthen; He would doubtless think of easing himself, he would be weary of Repeating.</p>
+            </q>
+            <p>In the Book called <hi>A Vindication of the Presbiterial Government and Ministry; Published by the Ministers and Elders met together in a Provincial Assembly,</hi> Novemb. 2. 1649. <hi>licensed, entred and printed accord<g ref="char:EOLhyphen"/>ing to order, in the year</hi> 1650, We have these expres<g ref="char:EOLhyphen"/>sions among several of the like nature. pag. 124, 140.</p>
+            <q>That Doctrine that cryeth up <hi>Purity</hi> to the ruine of <hi>Ʋnity</hi> is contra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to the Doctrine of the <hi>Gospel;</hi>
+               <note place="margin">pag. 124. 1 Cor. 1.10. Phil. 2.1, 2. Eph. 4.3, 4, 5, 6. Joh. 17.21, 22. Jer. 32.29. Zeph. 3.9.</note> for the <hi>Gospel</hi> calleth for <hi>Ʋnity</hi> as well as <hi>Purity:</hi> and <hi>Christ</hi> prayed for the <hi>Ʋnity</hi> of the Church as well as the <hi>Holiness.</hi> And it is prophesied of the times of the <hi>Gospel,</hi> That in those days <hi>God will give his people one way to serve him with one consent.</hi> This Rule will teach you what to judge of the <hi>Congregational</hi> way; for certainly that <hi>Religion</hi> that carrieth in the front of it a <hi>Toleration</hi> of different <hi>Religions,</hi> and is not
+<pb n="6" facs="tcp:199348:4"/> sufficient to keep the Body of <hi>Christ</hi> in <hi>Ʋnity</hi> and <hi>Pu<g ref="char:EOLhyphen"/>rity.</hi> is not the <hi>Government of Christ.</hi>
+            </q>
+            <q>
+               <note place="margin">p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. 142.</note>To make <hi>Ruptures</hi> in the body of <hi>Christ,</hi> and to divide <hi>Church</hi> from <hi>Church,</hi> and to set up <hi>Church</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Church,</hi> and to gather <hi>Churches</hi> out of true <hi>Churches;</hi> and because we differ in some things, there<g ref="char:EOLhyphen"/>fore to hold <hi>Church-communion</hi> in nothing; this we think hath no warrant from the word of God, and will introduce all manner of <hi>Confusion</hi> into <hi>Churches</hi> and <hi>Families;</hi> and not only disturb, but in a little time destroy the power of <hi>Godliness,</hi> purity of <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> peace of <hi>Christians,</hi> and set open a wide gap to bring in <hi>Atheism, Popery, Heresy,</hi> and all manner of <hi>Wickedness.</hi>
+            </q>
+            <p>Mr. <hi>Thomas Edwards</hi> in the first part of his <hi>Gangrae<g ref="char:EOLhyphen"/>na,</hi> printed in the year 1646; whose judgment in this particular has not only the Approbation and Recom<g ref="char:EOLhyphen"/>mendation of Mr. <hi>James Cranford,</hi> printed with the said Book; but of a huge number of Ministers from all parts of the Nation very largely exprest in their se<g ref="char:EOLhyphen"/>veral Letters, sent to him the said Mr. <hi>Edwards,</hi> and still remaining upon Record in the second and third Parts of his <hi>Gangraena:</hi> So that what He has written in this particular is not to be looked upon as his own single judgment, but as the judgment of very many others, signified by his pen. He writes his judgment in these words. pag, 58, 59, 85.</p>
+            <q>
+               <p>
+                  <note place="margin">pag. 58.</note>A <hi>Toleration</hi> is the grand design of the <hi>Devil,</hi> his master-piece and chief engine he works by at this time to uphold his tottering Kingdom; it is the most <hi>Compendious</hi> ready sure way to destroy all <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> lay all waste and bring in all <hi>Evil.</hi> It is a most <hi>transcendent, catholick, fundamental evil,</hi> for this Kingdom of any that can be imagined. As <hi>ori<g ref="char:EOLhyphen"/>ginal</hi>
+                  <pb n="7" facs="tcp:199348:4"/> sin is the most <hi>fundamental</hi> sin, all sin, having the seed and spawn of all in it: So a <hi>Toleration</hi> hath all <hi>Errors</hi> in it, and all <hi>evils;</hi> it is against the whole stream and current of <hi>Scripture</hi> both in the old and new <hi>Testament</hi> both in Matters of <hi>Faith,</hi> and <hi>Manners,</hi> both general and particular com<g ref="char:EOLhyphen"/>mands; it overthrows all <hi>Relations</hi> both <hi>Political, Ecclesiastical</hi> and <hi>Oeconomical;</hi>
+                  <note place="margin">pag. 59.</note> and whereas other evils, whether errors of judgment or practise, are but against some one or few places of <hi>Scripture</hi> or <hi>Relation,</hi> this is against <hi>All;</hi> this is the <hi>Abaddon, A<g ref="char:EOLhyphen"/>pollyon</hi> the destroyer of all <hi>Religion,</hi> the <hi>Abomination</hi> of desolation and astonishment; the liberty of per<g ref="char:EOLhyphen"/>dition (as St. <hi>Austin</hi> calls it) and therefore the <hi>Devil</hi> fol<g ref="char:EOLhyphen"/>lows it night and day, working mightily in many by writing books for it, and otherwayes, all the <hi>Devils</hi> in <hi>Hell</hi> and their Instruments being at work to pro<g ref="char:EOLhyphen"/>mote a <hi>Toleration.</hi>
+               </p>
+               <p>A <hi>Toleration</hi> will undo All. First,<note place="margin">pag. 85.</note> bring in <hi>Sceptiscism</hi> in doctrine and <hi>Looseness</hi> of Life, and afterwards all <hi>Atheism.</hi> O let the Ministers therefore oppose <hi>Tole<g ref="char:EOLhyphen"/>ration,</hi> as being that by which the <hi>Devil</hi> would at once lay a foundation for his Kingdom to all genera<g ref="char:EOLhyphen"/>tions, witness against it in all places, possess the <hi>Magistrates</hi> of the evil of it, yea and the people too, shewing them how if a <hi>Toleration</hi> were gran<g ref="char:EOLhyphen"/>ted, they would never have Peace in their <hi>Familys</hi> more, or ever after have command of Wives Children, Servants; but they and their posteri<g ref="char:EOLhyphen"/>ties after them are like to live in discontent and unquietness of mind all their dayes.</p>
+            </q>
+            <p>The same Mr. <hi>Edwards</hi> in the year 1641 printed a Book, entituled, <hi>Reasons against a Toleration,</hi> in which Book he gives ten <hi>Reasons</hi> against it, and an<g ref="char:EOLhyphen"/>swer
+<pb n="8" facs="tcp:199348:5"/> all those <hi>Reasons</hi> that were brought for it. In the year 1644 the said Mr. <hi>Edwards</hi> printed another Book, called <hi>Antapologia;</hi> towards the close of which Book, <hi>viz.</hi> from p. 280. to p. 307. he does give eight other <hi>Reasons</hi> against a <hi>Toleration.</hi> And in the year 1647 He printed a book consisting of 218 pages concer<g ref="char:EOLhyphen"/>ning <hi>the Ʋnlawfulness and Mischiefs both of an universal Toleration of all Religions and Consciences, and of a li<g ref="char:EOLhyphen"/>mited and bounded, of some Sects only;</hi> called, <hi>The casting down of the last and strongest hold of Satan, or a treatise against Toleration, and pretended Liberty of Conscience.</hi>
+            </p>
+            <p>Mr. <hi>Daniel Cawdry</hi> a member of the late <hi>Assembly of Divines,</hi> in his book called <hi>Independency a great Schism,</hi> printed in the year 1657, useth these expressi<g ref="char:EOLhyphen"/>ons, pag. 13, 14, 15, 17.</p>
+            <q>
+               <note place="margin">pag. 13.</note>The Commonwealth of <hi>Israel</hi> never prospered better then when it enforced <hi>Ʋniformity</hi> in the way of <hi>Religion</hi> prescribed.</q>
+            <p>To the objection that Uniformity enforced is the readiest means in the world to root out all <hi>Religion</hi> from the hearts of men; He returns these several an<g ref="char:EOLhyphen"/>swers.</p>
+            <q>
+               <p n="1">
+                  <note place="margin">pag. 14</note>1. That it was by God thought the best way to plant and preserve <hi>Religion</hi> in the hearts of the <hi>Jews.</hi> Those great <hi>Reformers</hi> so famous among them, <hi>Jo<g ref="char:EOLhyphen"/>siah,</hi> &amp;c. are recommended for compelling of peo<g ref="char:EOLhyphen"/>ple, and binding them by Oath to serve the Lord.</p>
+               <p n="2">2. The <hi>Parable</hi> of compelling men to come into the <hi>wedding</hi> seems (in the judgment of no mean Di<g ref="char:EOLhyphen"/>vines) to allow a power to bring men to the publick ordinances of <hi>worship.</hi>
+               </p>
+               <p n="3">
+                  <pb n="9" facs="tcp:199348:5"/>3. <hi>Toleration</hi> (which is our present condition) hath done much more towards the rooting of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> out of the hearts of many men in seven years, then the enforcing of <hi>Ʋniformity</hi> did in seventy years.</p>
+               <p n="4">4.<note place="margin">pag. 15.</note> To compel <hi>Ʋniformity</hi> (in a true or false way) may by the corruptions of mens hearts breed <hi>Hipocri<g ref="char:EOLhyphen"/>sy, Formality, Atheism</hi> and <hi>anxiety of Conscience</hi> in some; but good and gracious Souls have been discovered and purifyed by it, as the <hi>three Children</hi> and <hi>Martyrs</hi> have manifested.</p>
+               <p n="5">5. Many, at least some that were enforced to <hi>con<g ref="char:EOLhyphen"/>formity</hi> in the <hi>Worship</hi> of God, in <hi>Families</hi> or <hi>Con<g ref="char:EOLhyphen"/>gregations,</hi> have blessed God for that compulsion, who before were <hi>Atheists</hi> or <hi>Profane,</hi> while they had a cursed <hi>intolerable toleration</hi> to be of any or no <hi>Reli<g ref="char:EOLhyphen"/>gion.</hi>
+               </p>
+               <p>Lastly, the will indeed cannot be forced to be<g ref="char:EOLhyphen"/>lieve; but that professed <hi>Christians</hi> should be com<g ref="char:EOLhyphen"/>pelled to that external profession of that only way of <hi>worship,</hi> which <hi>Christ</hi> has instituted, seems as equal and reasonable, as it is unreasonable that men be left to their own choice, to worship God either not at all, or after their own fancies. And he that denys this seems to men to be, if not an <hi>Atheist,</hi> a <hi>Sceptick</hi> in <hi>Religion.</hi>
+               </p>
+               <p>I would know why the enforcing <hi>Ʋniformity</hi> is called by the name of <hi>bloody persecution.</hi>
+                  <note place="margin">pag. 17.</note> Surely to enforce <hi>conformity</hi> to the way of God is not <hi>persecu<g ref="char:EOLhyphen"/>tion</hi> much less <hi>bloody;</hi> but it is a just <hi>persecution</hi> of
+<pb n="10" facs="tcp:199348:6"/> evil and refractory rebels to the Kingdom of <hi>Christ.</hi>
+               </p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. <hi>Will<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am Ashton</hi> in his book called <hi>Toleration disap<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> printed the second time in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1670 gives an acc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of 20 eminent Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not all of them members of the late <hi>Ass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbly</hi>) d claring and by convincing arguments <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at evil of a <hi>Toleration</hi> in their <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> before the Parliament on Solemn occasi<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Mr. <hi>Samuel Rutherford,</hi> Professor of Divinity in the U<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iversity of S. <hi>Andrews,</hi> in his Book called <hi>A Free Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>putation against pretended Liberty of Consci<g ref="char:EOLhyphen"/>ence,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 9<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth these exp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ssions, p. 98, 99. <q>Such opi<g ref="char:EOLhyphen"/>nions and practices as make an evident <hi>Schism</hi> in a <hi>Church,</hi> and set up two distinct <hi>Churches</hi> of different forms of Government, and pretending to different institutions of <hi>Christ,</hi> of which the one must by the nature of their principles labour the destruction of the other, cannot be <hi>tol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rated.</hi> For each pretend<g ref="char:EOLhyphen"/>ing th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir <hi>fellow Churches</hi> to be of man, and so of the Devil, though they should both make one true in<g ref="char:EOLhyphen"/>visible <hi>Church,</hi> agreeing in all <hi>Fundamentals</hi> and many other <hi>Truths,</hi> yet sure the whole would be a kingdom divided against it self,<note place="margin">p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g. 99.</note> and that destroy<g ref="char:EOLhyphen"/>eth peace and unity. And if <hi>Paul</hi> could not endure the divisions of one and the same <hi>Church</hi> of <hi>Corinth,</hi> though they pretended not to be different <hi>Churches,</hi> for those that said they were of <hi>Paul,</hi> professed they could not be Disciples of <hi>Peter,</hi> but he sharply re<g ref="char:EOLhyphen"/>buked them as <hi>carnal,</hi> and such as divided <hi>Christ,</hi> and by cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quence must say that <hi>Paul</hi> was crucified for them, and was their <hi>Redeemer,</hi> and so if obsti<g ref="char:EOLhyphen"/>nately
+<pb n="11" facs="tcp:199348:6"/> they had proceeded in that <hi>separation, Paul</hi> would have gone on to higher censures of the <hi>Church;</hi> far more could he not endure the gather<g ref="char:EOLhyphen"/>ing of true <hi>Churches</hi> out of true <hi>Churches,</hi> which is the professed practice of the <hi>Independents.</hi>
+               </q> From p. 145. to p. 236. of the same Book, the said Author does produce sixteen several arguments against <hi>Tole<g ref="char:EOLhyphen"/>ration or pretended liberty of Conscience,</hi> and does an<g ref="char:EOLhyphen"/>swer such Objections as might be raised against them.</p>
+            <p>Mr. <hi>Thomas Shephard, Pastor</hi> of the <hi>Church</hi> of <hi>Christ</hi> at <hi>Cambridge</hi> in <hi>New-England,</hi> in his Book called <hi>The<g ref="char:EOLhyphen"/>ses Sabbaticae,</hi> or <hi>The Doctrine of the Sabbath,</hi> printed in the year 1655, thus declares his judgement, p. 311, 312.</p>
+            <q>It's a thousand times better to suffer <hi>persecution</hi> for <hi>righteousness</hi> sake and for a good <hi>conscience,</hi>
+               <note place="margin">pag. 111. pag. 112.</note> then to desire and plead for <hi>Toleration</hi> of all Consciences, that so by this cowardly device and lukewarm prin<g ref="char:EOLhyphen"/>ciple our own may be untouched. It was never heard of till now of late, that any of Gods <hi>Prophets, Apostles, Martyrs,</hi> faithful <hi>Witnesses,</hi> &amp;c. that they ever pleaded for liberty in <hi>error,</hi> but only for the <hi>truth,</hi> which they preached and prayed for, and suffered for unto the death, and their sufferings for the <hi>Truth</hi> with zeal and patience, faith and const<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>cy, have done more good then the way of univer<g ref="char:EOLhyphen"/>sal <hi>Toleration</hi> is like to do, which is purpos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly invent<g ref="char:EOLhyphen"/>ed to avoid trouble. <hi>Truth</hi> hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver spread by op<g ref="char:EOLhyphen"/>position, but <hi>error,</hi> being a child of <hi>Satan,</hi> hath fled by a zealous resisting it.</q>
+            <pb n="12" facs="tcp:199348:7"/>
+            <p>
+               <note place="margin">
+                  <hi>Edwards</hi> Rea<g ref="char:EOLhyphen"/>so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s against <hi>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi> 32. and <hi>A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> p. 289.</note>In the Answer from <hi>New-England</hi> to the 32 Questi<g ref="char:EOLhyphen"/>ons, sent by some <hi>Lancashire Ministers,</hi> who disliking the C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>remonies of the <hi>Church,</hi> and having some thoughts of leaving their Countrey, did propose it to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se of <hi>New-England,</hi> whether they might have liberty according to their <hi>consciences</hi> to go into a <hi>Church way,</hi> something different from theirs, and not a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ogether after the <hi>Independent popular Govern<g ref="char:EOLhyphen"/>ment:</hi> 'Tis replyed, <q>That they could not grant any other form of Government but one, seeing there is but one way of <hi>Church-Government</hi> laid down in the Word, and that unchangeable, and therefore they cannot yield to it.</q>
+            </p>
+            <p>Now as concerning this Question, Whether the penalty of the Law ought to be i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted on those who pretend conscience, in opposition to what the Law commands? Mr. <hi>John Humphrey</hi> in his Book cal<g ref="char:EOLhyphen"/>led <hi>The Authority of the Magistrate about Religion dis<g ref="char:EOLhyphen"/>cussed,</hi> printed in the year 1672, has resolved it thus, p. 113, 114.</p>
+            <q>
+               <note place="margin">pag. 113.</note>When men pretend they make a <hi>conscience</hi> of a thing, and indeed do not, I would have the <hi>Ma<g ref="char:EOLhyphen"/>gistrate</hi> above all men to execute the Law upon such, (supposing they judge the Law righteous) and make them an example. If you will say, But how shall the <hi>Magistrate</hi> know this, seeing no man c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n judge of anothers heart? I acknowledge rea<g ref="char:EOLhyphen"/>dily that this is a difficulty, and the chief thing which requires the <hi>Magistrates</hi> prudence and faith<g ref="char:EOLhyphen"/>fulness: Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t this I say, that every man for all that, bei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g <hi>judge</hi> of his own acts, and the punishing or forbearing a person, being what the <hi>Magistrate</hi>
+               <pb n="13" facs="tcp:199348:7"/> does,<note place="margin">pag. 114.</note> he must and can but go according to his <hi>judg<g ref="char:EOLunhyphen"/>ment.</hi> He uses the <hi>mediums</hi> as a wise man does, and lawfully may take his conjecture, (the tree is known by his fruit) and it is not necessary that it should be certain, but only that it be certain that he so judges, and if he be convinced in his soul, and indeed judges the mans profession only to be pre<g ref="char:EOLhyphen"/>tence, it is his own <hi>judgement,</hi> and nothing else can determine him. Although where the person is se<g ref="char:EOLhyphen"/>rious in what he declares, and not under any pub<g ref="char:EOLhyphen"/>lick note of perfidiousness, the rule of Charity, <hi>which hopeth all things and thinketh no evil,</hi> must in<g ref="char:EOLhyphen"/>cline him to the best construction.</q>
+            <p>Mr. <hi>Jeremiah Burroughs</hi> had given the same <hi>Resolu<g ref="char:EOLhyphen"/>tion</hi> in eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct long before, in his Book called <hi>Irenicum,</hi> printed in the year 1646. p. 29, 30, 31, 32, 33, 34, 35, 36.</p>
+            <p>The <hi>Devil</hi> must not be let alone, though he be got into mens <hi>Consciences.</hi> God hath appointed no Ci<g ref="char:EOLhyphen"/>ty of R suge for him; if he flyes to mens <hi>Consciences</hi> as <hi>Joab</hi> did to the <hi>Horns</hi> of the <hi>Altar,</hi> he must be fetched f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om thence, or fallen upon there. S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me<g ref="char:EOLhyphen"/>thing may be done to keep them from evil, and to reduce th m, notwithstanding the plea of their <hi>Con<g ref="char:EOLhyphen"/>sciences.</hi> This said, he does proceed to sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w what may be done to a man in such a case. These things, he says, may be done.</p>
+            <q>
+               <p n="1">1. Any man that pleads his <hi>Consci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce,</hi>
+                  <note place="margin">pag. 30.</note> may be required to give an account of his <hi>Conscience.</hi> It is not enough for him to say his <hi>Conscience</hi> puts him upon such a thing, or keeps him from such a thing,
+<pb n="14" facs="tcp:199348:8"/> he must give an account of the grounds on which <hi>Conscience</hi> goes. It is against the light of nature that men in society should do things of which they need give no account to any whatsoever.</p>
+               <p n="2">2. Due enquiry is to be made whether the <hi>Devil</hi> be indeed in the <hi>Conscience.</hi> It may be you will find him in some other room of the soul, only he pretends to that as his <hi>Sanctuary,</hi> hoping to escape b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter there then any where else. If he should be found in a mans <hi>Will,</hi> he thinks he should be hunted out with violence, he could not escape there, but he hopes men will deal more tenderly with Consci<g ref="char:EOLhyphen"/>ence; therefore either thither he will get, or at least he will give it out that he is got in there, ho<g ref="char:EOLhyphen"/>ping you will enquire after him no further, when it is given out he has taken <hi>Refuge</hi> there. As a <hi>Male<g ref="char:EOLhyphen"/>factor</hi> searched after, it may be he is lurking in some house not far from you, but that you may either not search, or cease searching, he causes it to be given out that he is got into some strong <hi>Castle,</hi> or some other <hi>Countrey,</hi> where there is little hope to come at him.</p>
+            </q>
+            <p>Hereupon he puts the Question, by what signs it may be known whether the <hi>Devil</hi> be got into a mans <hi>Conscience?</hi> It may be known he tells us by these signs.</p>
+            <q>
+               <p n="1">1. If a mans private <hi>Interest</hi> is much engaged in what he pretends <hi>Conscience</hi> for, this may be enough to raise suspicion, though it be no determining Rule, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">
+                  <pb n="15" facs="tcp:199348:8"/>2. If in the Course of a mans life,<note place="margin">pag 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> he appears not to be much under the command of his <hi>Con<g ref="char:EOLhyphen"/>science,</hi> but can take Liberty as he pleases, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. When the account a man gives, cannot in any rational way be judged such, giving allow<g ref="char:EOLhyphen"/>ance to all his weaknesses, as should probably misl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad him so grosly, as is apparent he is misled, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. If a man be proud and turbulent in his car<g ref="char:EOLhyphen"/>riage; by that you may know the <hi>Devil</hi> is ra<g ref="char:EOLhyphen"/>ther in the <hi>Will,</hi> then in the <hi>Conscience,</hi> &amp;c.</p>
+               <p n="5">5.<note place="margin">pag. 32.</note> When a man is not willing to make use of means to inform his <hi>Conscience,</hi> &amp;c.</p>
+               <p n="6">6.<note place="margin">pag. 33.</note> When a man by reason of <hi>Scripture</hi> is so put to it, as he must either renounce his <hi>Error,</hi> or fly from some of his own <hi>Principles,</hi> he will ra<g ref="char:EOLhyphen"/>ther deny his <hi>Principles</hi> then yield himself con<g ref="char:EOLhyphen"/>vinced of his error; The man that does thus, is the man spoken of <hi>Tit.</hi> 3.11. that is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> condemned of himself. <hi>A Heretick after the first and second admonition reject, because he is self con<g ref="char:EOLhyphen"/>demned.</hi> By this Scripture it is clear that a mans <hi>Conscience</hi> may be so far seen into, as there may be a judgment passed upon a man, that he is a <hi>self condemned</hi> man, <hi>&amp;c.</hi>
+               </p>
+               <p>Having enlarged upon these signes he declares yet further what may be done to such a man.</p>
+               <pb n="16" facs="tcp:199348:9"/>
+               <p>Notwithstanding his <hi>Conscience</hi> he is to be cast out of the <hi>Society of the Saints;</hi> and not only so, but if his <hi>error</hi> with the profession of it be de<g ref="char:EOLhyphen"/>structive to the <hi>State,</hi> and he cannot be reclaim<g ref="char:EOLhyphen"/>ed, he may likewise be cut off from it; or at least deprived of the priviledges of it, and bene<g ref="char:EOLhyphen"/>fits by it, notwithstanding his Plea of <hi>Consci<g ref="char:EOLhyphen"/>ence.</hi>
+               </p>
+            </q>
+            <p>And least it should be thought that he herein sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke only of the restraint of men from d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nge<g ref="char:EOLhyphen"/>rous gross evils and not from evils o f less mo<g ref="char:EOLhyphen"/>ment; He does add concerning such; That,</p>
+            <q>A man may be put to some trouble in those ways of evil, that his <hi>Conscience</hi> puts him upon, so far as to take off the wantonness of his spirit and the neglect of means: In times of liberty there is very great wantonness in mens Spirits; they stand as in an equal <hi>ballance</hi> to receive <hi>truth</hi> or <hi>error;</hi> e<g ref="char:EOLhyphen"/>very little thing casts the <hi>ballance</hi> in many mens Spirits: as interest in a friend; esteem from such men of repute in some; in others the credit they conceive there is in being able to speak further in a business then other men, to have a further insight into it than others; and a thousand the like: Now to help against such temptations, if there be some trouble layed in the way, of that which is apparently evil, so as men shall see there is something to be suffered in that way; if there be no more grains of trouble then may help against the wantonness and neglect of means, I see no reason why any should be offended at this.</q>
+            <pb n="17" facs="tcp:199348:9"/>
+            <p>Mr. <hi>James Noyes,</hi> that <hi>judicious and faithful Mini<g ref="char:EOLhyphen"/>ster of Christ;</hi> for so the <hi>Publisher</hi> of his book has been pleased to style him; Collegue to Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Parker, Pastor</hi> of the <hi>Church</hi> of <hi>Newbury</hi> in <hi>New-England,</hi> has in like sort declared his judg<g ref="char:EOLhyphen"/>ment for the punishing of offenders, notwith<g ref="char:EOLhyphen"/>standing their Plea of <hi>Conscience,</hi> in his book cal<g ref="char:EOLhyphen"/>led <hi>Moses and Aaron;</hi> recommended by the said Mr. <hi>Thomas Parker,</hi> and here published in the year 1661. by Mr. <hi>Benjamin Woodbridg,</hi> who at that time thought fit to style himself <hi>Rector</hi> of <hi>Newbu<g ref="char:EOLhyphen"/>ry</hi> in the <hi>County</hi> of <hi>Berks.</hi> The said Mr. <hi>James Noyes,</hi> pag. 69 and 70, discoursing of the power of <hi>Magistrates</hi> over the <hi>Church,</hi> under <hi>Christ</hi> the <hi>Head,</hi> does affirm,</p>
+            <q>That Magistrates have a supream power under <hi>Christ</hi> to see the whole Law of God kept without exception:<note place="margin">pag. 69. Deut. 17.19. Numb. 27.21. Es. 1.25, 26. 2 Chron. 15.30.24.4.29.25. Neh. 13.13. Joh. 3.11. Hos. 9.30.10.3. Ez. 6.8, 11. Dan. 6.23. Deut. 17.10, 11. Rom. 13.4. 2 Tim. 2.2.</note> That it is the <hi>Magistrates</hi> duty to re<g ref="char:EOLhyphen"/>form all abuses without exception: That it is the <hi>Magistrates</hi> end to punish and to put away all evil; to maintain all <hi>godliness</hi> and <hi>peace</hi> among all per<g ref="char:EOLhyphen"/>sons: That <hi>Magistrates</hi> receive power from <hi>Christ</hi> as <hi>Mediator:</hi> All power is given to him, and there<g ref="char:EOLhyphen"/>fore comes from him, and is given by him to others: And <hi>Magistrates</hi> receive power from <hi>Christ</hi> with<g ref="char:EOLhyphen"/>out exception in a <hi>politick</hi> way, therefore their power is correspondent to <hi>Christs Mediatorial</hi> pow<g ref="char:EOLhyphen"/>er in a <hi>politick</hi> way; else the <hi>Church</hi> would be de<g ref="char:EOLhyphen"/>solated with <hi>Heresies, Idolatry, Prophaneness.</hi> It is needfull that <hi>Magistrates</hi> should have power to preserve the Church from desolation by taking a<g ref="char:EOLhyphen"/>way <hi>Foxes</hi> and <hi>Wolves,</hi> &amp;c. and their power is no where limited in this respect, and therefore they
+<pb n="18" facs="tcp:199348:10"/> have such power, as to take away <hi>Foxes</hi> and <hi>Wolves,</hi> &amp;c.</q>
+            <p>
+               <note place="margin">pag. 72.</note>And in p. 72. to the Objection, That <hi>Magistrate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> may not punish sins of <hi>conscience,</hi> he returns this An<g ref="char:EOLhyphen"/>swer, That <hi>they may;</hi> which he there proves at large by fourteen several Arguments, p. 72, 73, 74, 75. <hi>viz.</hi> thus:</p>
+            <q>
+               <p>Sins committed by the misunderstanding of <hi>Gods Word</hi> may be punished, therefore sins of <hi>conscience</hi> may be punished. A plea from <hi>Gods Word</hi> is great<g ref="char:EOLhyphen"/>er then a plea of <hi>conscience.</hi> The Jews might have been punished for their killing of <hi>Christ,</hi> though they pleaded from <hi>Gods Word</hi> that he had deserved it by <hi>blasphemy.</hi>
+               </p>
+               <p n="2">2. Men may be punished when they sin in <hi>Reli<g ref="char:EOLhyphen"/>igious zeal;</hi> so <hi>Saul</hi> murdered the <hi>Gibeonites,</hi> and the <hi>Jews Christ.</hi> Zeal argues a love of duty, and an apprehension of <hi>conscience,</hi> in reference to Gods command.<note place="margin">Mat. 26.52.</note>
+                  <hi>Peter</hi> was threatned with death by the sword, for using the sword unlawfully, though <hi>conscientiously,</hi> in a way of <hi>Religious zeal. Paul</hi>'s <hi>mad zeal</hi> was <hi>conscientions.</hi>
+                  <note place="margin">Act. 26.6.</note>
+                  <hi>A mad conscience had need be restrained.</hi>
+               </p>
+               <p n="3">3. <hi>Magistrates</hi> as well as Masters and Fathers of Families may make, and therefore execute Laws against an erroneous <hi>conscience.</hi> They may con<g ref="char:EOLhyphen"/>firm Gods judicial Laws,<note place="margin">Deut. 13.13.</note> which punished <hi>Idolatry,</hi> and therefore an erroneous <hi>conscience.</hi>
+               </p>
+               <p n="4">4. Negligence is punishable without exception,
+<pb n="19" facs="tcp:199348:10"/> and <hi>conscience</hi> is negligent when a man sins. <hi>Adam</hi> his <hi>conscience</hi> was negligent in the act, though not in the habit, when he first sinned, and accordingly punished. A negligent and corrupt <hi>Judge</hi> is pu<g ref="char:EOLhyphen"/>nished, though ignorant. A corrupt <hi>conscience</hi> is a corrupt <hi>Judge. Conscientia est testis, judex &amp; vindex.</hi>
+               </p>
+               <p n="5">5.<note place="margin">Deut. 17.19. 2 Chron. 19.6.</note> God does punish Sins of <hi>Conscience</hi> and <hi>Magi<g ref="char:EOLhyphen"/>strates</hi> are <hi>Gods Vicegerents</hi> and not restrained in this respect.</p>
+               <p n="6">6.<note place="margin">Ex. 32 4. Deut. 13.13.</note>
+                  <hi>Magistrates</hi> under the Law did punish sins of <hi>Conscience;</hi> and Law is not changed in this re<g ref="char:EOLhyphen"/>spect.</p>
+               <p n="7">7. Men may commit murders,<note place="margin">Joh. 16.2. Act. 26.9. Rom. 10.2.</note> persecute and deso<g ref="char:EOLhyphen"/>late the <hi>Church</hi> in a way of <hi>conscience,</hi> therefore they may be punished for Sins of <hi>conscience.</hi> Men may be punished in reference to sins of the <hi>mind,</hi> and why not in reference to sins of <hi>conscience</hi> also? Mad men having not the use of a rational mind are not punishable. A <hi>conscience</hi> is a power of the mind, whereby we discern the rule and judg of our actions and conformity thereunto. The <hi>Soul, mind</hi> and <hi>conscience</hi> are punished immediately by God, the body immediately by man. <hi>Conscience</hi> is formally punished, though mediately, as well as formally; the subjects of heat from fire, though mediately by the ayr. A murderous heretical <hi>conscience</hi> had need be corrected, not directed only. <hi>Meliores ducit amor, plures tamen corrigit timor.</hi>
+               </p>
+               <p n="9">9. If <hi>Direction</hi> be not sufficient,<note place="margin">2 Tim. 3.16.</note> then <hi>correcti<g ref="char:EOLhyphen"/>on</hi>
+                  <pb n="20" facs="tcp:199348:11"/> is to be applyed to <hi>Conscience</hi> to the whole man.</p>
+               <p n="10">
+                  <note place="margin">1 Pet. 3.10, 11. 1 Tim. 1.9.</note>10. All Disobedience is to be corrected without exception.</p>
+               <p n="11">
+                  <note place="margin">Heb. 10.22. Tit. 1.15, 16.</note>11. Conscience is but a natural power of the Soul, and therefore corrigible, as other natural pow<g ref="char:EOLhyphen"/>ers offending as well as the affections and the will and the mind, <hi>&amp;c.</hi> Men may <hi>conscienciously</hi> neglect to hear the <hi>Church,</hi> yea persecute the <hi>Church con<g ref="char:EOLhyphen"/>scienciously,</hi> which is worse. Men may be punish<g ref="char:EOLhyphen"/>ed as contemptuous and wilful, affecting igno<g ref="char:EOLhyphen"/>rance, morally mad. A master of a Family cor<g ref="char:EOLhyphen"/>rupted had need be corrected rather then others, because so many do depend on his integrity. A Drunkard that is wont to be mischievous, and yet follows the cups, deserves <hi>Pythacus</hi> his Law, a dou<g ref="char:EOLhyphen"/>ble punishment.<note place="margin">Act. 23.14.</note> If the sworn <hi>Jews</hi> had kil'd <hi>Paul,</hi> they had murdered him in <hi>Conscience. A rod is for the fools back,</hi> and <hi>conscience</hi> is naturally <hi>foolish.</hi> A <hi>conscience</hi> that serveth lusts,<note place="margin">Tit. 3.3. 2 Pet. 2.3.5. Tit. 3.2, 3.</note> is contemptuous, wilfully ignorant, affecting ignorance, and natural<g ref="char:EOLhyphen"/>ly <hi>conscience</hi> does serve lusts. The <hi>Thief</hi> and the <hi>Adulterer</hi> may have such a <hi>conscience</hi> as to <hi>think that God is like to them.</hi>
+                  <note place="margin">Psal. 5<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.29,</note>
+                  <hi>Heathens</hi> have worshiped God by <hi>adulterous prostitutions.</hi> Men are in a sense <hi>conscienciously</hi> criminal, when <hi>conscience</hi> permitteth the perpetration of crimes, not only when it com<g ref="char:EOLhyphen"/>mands. If a corrupt <hi>conscience</hi> maketh Gods House a den of thieves, it is meet it should be whipt out. If <hi>conscience</hi> be a den for <hi>thieves</hi> and a shelter for <hi>murderers,</hi> it must not be tollerated. Gods own <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> must not secure such.</p>
+               <p n="13">
+                  <pb n="21" facs="tcp:199348:11"/>13. Ministers are to punish <hi>conscience.</hi>
+                  <note place="margin">2 Cor. 10.5, 6.</note>
+               </p>
+               <p n="14">14. If <hi>conscience</hi> is not to be corrected, it is be<g ref="char:EOLhyphen"/>cause it is ignorant, or because there is some good<g ref="char:EOLhyphen"/>ness in it, or for some other reason; But no such consideration does excuse it; Not the first, for there is greatest ignorance in the greatest sins, yet they are the greatest Sins. There is more ignorance of some high principles in sins against known principles, then in sins that are called sins of ignorance. The more knowledg the less sin, therefore the more igno<g ref="char:EOLhyphen"/>rance the more sin. It appears that the will follows the intellect in mad-men. The Will doth not act like the Appetite of a brute. All lusts are lusts of ignorance. True Knowledg doth hinder Sin, be<g ref="char:EOLhyphen"/>cause it doth forbid Sin, and the Will cannot but follow the ultimate dictate of the intellect. <hi>Om<g ref="char:EOLhyphen"/>nis malus est stultus omnis peccans est ignarus. Igno<g ref="char:EOLhyphen"/>rantia juris non excusat.</hi> Ignorance deserves pity, yet it doth not excuse from punishment. Not the second, there is some goodness in a <hi>heathens consci<g ref="char:EOLhyphen"/>ence. Godliness</hi> in truth according to the <hi>Gospel</hi> doth not exempt from punishment. Conscience so far as it argues a good man, renders one the more worthy of regard, but not free from punish<g ref="char:EOLhyphen"/>ment, <hi>Qui parit culpis praesentibus, vitia transmittit ad posteros.</hi>
+               </p>
+            </q>
+            <epigraph>
+               <q>
+                  <pb n="22" facs="tcp:199348:12"/>
+                  <bibl>
+                     <hi>Luk.</hi> 19.22.</bibl> Out of thine own mouth will I judg thee, thou wicked Servant.</q>
+               <q>
+                  <bibl>
+                     <hi>Rom.</hi> 2.1.</bibl> Therefore thou art inexcusable, oh Man who<g ref="char:EOLhyphen"/>soever thou art that judgest: for where<g ref="char:EOLhyphen"/>in thou judgest another, thou condemnest thy self, for thou that judgest doest the same things.</q>
+               <q>
+                  <bibl>
+                     <hi>Jer. Burroughs Iren. p.</hi> 215. <hi>l.</hi> 28.</bibl> The Lord may justly judg us out of our own mouths.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:199348:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
